@@ -1,0 +1,14 @@
+Day 2 Learnings:
+
+- Used if, elif, and else for decision making
+- Practiced match-case for menu-based logic
+- Used for loops with range() for sequences and patterns
+- Used while loops for repeated input and validation
+- Learned break, continue, and pass statements
+- Created calculator, password checker, and number-based programs
+
+Doubts / Improvements:
+- When to prefer match-case over if-elif
+- Best use cases for pass in real projects
+
+
