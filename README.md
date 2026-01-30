@@ -1,2 +1,2 @@
-# python-ml-journey
-My Python + Machine Learning + AI learning journey with daily practice and projects.
+# python-learning
+My daily Python learning and practice programs.
