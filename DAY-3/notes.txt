@@ -1,0 +1,11 @@
+Day 3 Learnings:
+
+- Used string indexing and slicing
+- Practiced common string methods like strip(), title(), count(), find(), and replace()
+- Used format() and f-strings for string formatting
+- Built vowel counter using for loop and condition
+- Created palindrome checker using slicing
+
+Doubts / Improvements:
+- Difference between find() and index()
+- Performance of slicing vs loops for string reversal
